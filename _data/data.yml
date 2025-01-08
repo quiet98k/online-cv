@@ -70,10 +70,7 @@ education:
       - degree: MS in Computer Science
         university: University of California
         time: 2011 - 2012
-        details: |
-
-            - Bullet point
-            - Bullet point
+        details: |    
             - GPA: 3.9/4.0
             - GRE: 339
       # - degree: BSc in Applied Mathematics
