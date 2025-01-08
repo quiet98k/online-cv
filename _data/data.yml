@@ -60,7 +60,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-        I'm a Computer Science student at UC Davis (GPA: 3.9/4.0) with expertise in system architecture, machine
+        I am a Computer Science student at UC Davis (GPA: 3.9/4.0) with expertise in system architecture, machine
         learning, and full-stack development. Led projects in decentralized bookkeeping, machine learning, and
         game development. Skilled in React, Node.js, Vue.js, and Python. Published in the 2024 MLSCM Conference
         on deep learning integration for object detection.
@@ -71,6 +71,9 @@ education:
         university: University of California
         time: 2011 - 2012
         details: |
+
+            - Bullet point
+            - Bullet point
             - GPA: 3.9/4.0
             - GRE: 339
       # - degree: BSc in Applied Mathematics
@@ -88,21 +91,13 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: System Architect Intern
+        time: 07/2023 - 08/2023
+        company: Guangdong Yixun Technology
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+            - Integrated Vue.js and Spring Boot for enhanced UX/UI and performance
+            - Boosted YOLOv3 image recognition accuracy through curated datasets
+            - Established Prometheus-based system monitoring with Grafana
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
