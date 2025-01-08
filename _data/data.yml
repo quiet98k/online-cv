@@ -154,13 +154,14 @@ projects:
     #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Distributed Accounting Software with Resilient DB
+      - title: ResCash
         link: "https://github.com/ResilientApp/resCash"
         tagline: "a decentralized bookkeeping app with React and Node.js"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Chinese Handwritten Digit Classifier
+        link: "https://github.com/quiet98k/Chinese-Digit-Classifier"
+        tagline: "Achieved 95% accuracy on a 15,000-sample dataset using Logistic Regression and Neural Networks"
+        details: "Testing"
 
       - title: Tempo
         link: "#"
