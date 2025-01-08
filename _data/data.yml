@@ -156,24 +156,23 @@ projects:
     assignments:
       - title: ResCash
         link: "https://github.com/ResilientApp/resCash"
-        tagline: "a decentralized bookkeeping app with React and Node.js"
+        tagline: "A decentralized bookkeeping app with React and Node.js"
 
       - title: Chinese Handwritten Digit Classifier
         link: "https://github.com/quiet98k/Chinese-Digit-Classifier"
         tagline: "Achieved 95% accuracy on a 15,000-sample dataset using Logistic Regression and Neural Networks"
-        details: "Testing"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: BlackJack Brawl
+        link: "https://github.com/quiet98k/BlackJack-Brawl"
+        tagline: "A strategic card game blending blackjack mechanics and unique card effects"
 
-      - title: Atom
+      - title: Cat Breed Classification
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "A ML Classifier using YOLOv5 and VGG16, achieving 87% accuracy across five breeds"
 
-      - title: Delta
+      - title: Linux Server
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A self-hosted Linux server with advanced system configurations and security protocols"
 
 # oss:
 #     title: OSS Contributions
@@ -197,24 +196,24 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      # You can list your publications in this section. Lorem ipsum dolor sit
+      # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      # bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Integrating Object Detection and Deep Convolutional Neural Networks for Cat Breed Classification
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Yiming Feng
+        conference: 2024 International Conference on Modern Logistics and Supply Chain Management (MLSCM 2024), Oct 2024
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      #   link: "#"
+      #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+      #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      # - title: A syntax directed compiler for Algol 60
+      #   link: "#"
+      #   authors: Edgar T. Irons
+      #   conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
