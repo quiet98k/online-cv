@@ -149,14 +149,14 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    # intro: >
+    #   You can list your side projects in this
+    #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Distributed Accounting Software with Resilient DB
+        link: "https://github.com/ResilientApp/resCash"
+        tagline: "a decentralized bookkeeping app with React and Node.js"
 
       - title: DevStudio
         link: "#"
