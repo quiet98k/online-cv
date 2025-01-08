@@ -18,13 +18,13 @@ sidebar:
     timezone: America/Los_Angeles # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://quiet98k.com/ # Include the full website URL, including "http://" or "https://".
-    linkedin: alandoe
-    xing: alandoe
-    github: jekyll
+    linkedin: yiming-feng
+    # xing: alandoe
+    github: quiet98k
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    # twitter: '@jekyllrb'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,13 +36,13 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Chinese-Mandarin
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: Chinese-Cantonese 
+          level: Native
 
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
