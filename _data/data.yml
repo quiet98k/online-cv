@@ -31,7 +31,7 @@ sidebar:
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: "https://github.com/quiet98k/online-cv/blob/master/assets/Yiming_Feng_Resume.pdf" # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: "../assets/Yiming_Feng_Resume.pdf" # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Languages
@@ -201,7 +201,7 @@ publications:
     #   bibendum fringilla a eu lectus.
     papers:
       - title: Integrating Object Detection and Deep Convolutional Neural Networks for Cat Breed Classification
-        link: "https://github.com/quiet98k/online-cv/blob/master/assets/Integrating%20Object%20Detection%20and%20Deep%20Convolutional%20Neural%20Networks%20for%20Cat%20Breed%20Classification.pdf"
+        link: "../assets/paper.pdf"
         authors: Yiming Feng
         conference: 2024 International Conference on Modern Logistics and Supply Chain Management (MLSCM 2024), Oct 2024
 
