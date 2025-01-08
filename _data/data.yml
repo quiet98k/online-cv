@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Yiming Feng
-    tagline: Full Stack Developer
+    tagline: 
     avatar: yiming.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -58,39 +58,32 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: About Me
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        I'm a Computer Science student at UC Davis (GPA: 3.9/4.0) with expertise in system architecture, machine
+        learning, and full-stack development. Led projects in decentralized bookkeeping, machine learning, and
+        game development. Skilled in React, Node.js, Vue.js, and Python. Published in the 2024 MLSCM Conference
+        on deep learning integration for object detection.
 education:
     title: Education
     info:
       - degree: MSc in Computer Science
-        university: University of London
+        university: University of California
         time: 2011 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - GPA: 3.9/4.0
+            - GRE: 339
+      # - degree: BSc in Applied Mathematics
+      #   university: Bristol University
+      #   time: 2007 - 2011
+      #   details: |
+      #     Describe your study here lorem ipsum dolor sit amet, consectetuer
+      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      #     sociis natoque penatibus et magnis dis parturient montes, nascetur
+      #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      #     pretium quis, sem.
+      #       - Bullet point
+      #       - Bullet point
 
 experiences:
     title: Experiences
