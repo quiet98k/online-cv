@@ -69,10 +69,13 @@ education:
     info:
       - degree: MS in Computer Science
         university: University of California
-        time: 07/2022 - 06/2025 (Expected)
+        time: 07/2022 - 06/2025
         details: |    
             - GPA: 3.9/4.0
             - GRE: 339
+      - degree: BS in Computer Science
+        university: Duke University
+        time: 08/2025 - present
       # - degree: BSc in Applied Mathematics
       #   university: Bristol University
       #   time: 2007 - 2011
@@ -154,6 +157,10 @@ projects:
     #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
+      - title: woaa-trading
+        link: "#"
+        tagline: "full-stack trading simulation platform using React (TypeScript), FastAPI (Python), PostgreSQL, and Redis"
+    
       - title: ResCash
         link: "https://github.com/ResilientApp/resCash"
         tagline: "A decentralized bookkeeping app with React and Node.js"
