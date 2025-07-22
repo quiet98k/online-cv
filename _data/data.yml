@@ -31,7 +31,8 @@ sidebar:
     mastodon:  # Please include your full Mastodon link here.
     hackerrank: # Please provide your HackerRank username.
     leetcode: # Please provide your LeetCode username.
-    pdf: "../assets/Yiming Feng Resume.pdf" # Add a PDF link here if you want to include a PDF custom version in your resume.
+    # pdf: "../assets/Yiming Feng Resume.pdf"
+    pdf: "https://rxresu.me/oscar20040522/yiming-feng-resume"
 
     languages:
       title: Languages
