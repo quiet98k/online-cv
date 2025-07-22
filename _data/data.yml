@@ -65,15 +65,17 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MS in Computer Science
-        university: University of California
+        - degree: MS in Computer Science
+            university: Duke University
+            time: 08/2025 - present
+            
+        - degree: BS in Computer Science
+        university: University of California, Davis
         time: 07/2022 - 06/2025
         details: |    
             - GPA: 3.9/4.0
             - GRE: 339
-      - degree: BS in Computer Science
-        university: Duke University
-        time: 08/2025 - present
+      
       # - degree: BSc in Applied Mathematics
       #   university: Bristol University
       #   time: 2007 - 2011
@@ -96,11 +98,11 @@ experiences:
             - Integrated Vue.js and Spring Boot for enhanced UX/UI and performance
             - Boosted YOLOv3 image recognition accuracy through curated datasets
             - Established Prometheus-based system monitoring with Grafana
-      - role: Computer Science Unit Tutor
-        time: 04/2023 - Present
-        company: CS Tutoring at UC Davis
-        details: |    
-            - Assisted students with programming assignments and collaborative study sessions
+      # - role: Computer Science Unit Tutor
+      #   time: 04/2023 - Present
+      #   company: CS Tutoring at UC Davis
+      #   details: |    
+      #       - Assisted students with programming assignments and collaborative study sessions
       - role: Mathematic Reader
         time: 10/2024 – 12/2023
         company: UC Davis Math Department
@@ -157,27 +159,31 @@ projects:
     assignments:
       - title: woaa-trading
         link: "#"
-        tagline: "full-stack trading simulation platform using React (TypeScript), FastAPI (Python), PostgreSQL, and Redis"
-    
-      - title: ResCash
-        link: "https://github.com/ResilientApp/resCash"
-        tagline: "A decentralized bookkeeping app with React and Node.js"
+        tagline: "full-stack trading simulation platform using React (TypeScript), FastAPI (Python), PostgreSQL, and Redis."
+        
+      - title: LOL-Win-Prediction
+        link: "#"
+        tagline: "Mid-game win predictor for League of Legends using a DNN with a focus on local robustness (PGD, Jacobian, Marabou)."
 
       - title: Chinese Handwritten Digit Classifier
         link: "https://github.com/quiet98k/Chinese-Digit-Classifier"
-        tagline: "Achieved 95% accuracy on a 15,000-sample dataset using Logistic Regression and Neural Networks"
-
-      - title: BlackJack Brawl
-        link: "https://github.com/quiet98k/BlackJack-Brawl"
-        tagline: "A strategic card game blending blackjack mechanics and unique card effects"
+        tagline: "Achieved 95% accuracy on a 15,000-sample dataset using Logistic Regression and Neural Networks."
 
       - title: Cat Breed Classification
         link: "#"
         tagline: "A ML Classifier using YOLOv5 and VGG16, achieving 87% accuracy across five breeds"
+              
+      - title: ResCash
+        link: "https://github.com/ResilientApp/resCash"
+        tagline: "A decentralized bookkeeping app with React and Node.js."
 
-      - title: Linux Server
-        link: "#"
-        tagline: "A self-hosted Linux server with advanced system configurations and security protocols"
+      - title: BlackJack Brawl
+        link: "https://github.com/quiet98k/BlackJack-Brawl"
+        tagline: "A strategic card game blending blackjack mechanics and unique card effects."
+
+      # - title: Linux Server
+      #   link: "#"
+      #   tagline: "A self-hosted Linux server with advanced system configurations and security protocols."
 
 # oss:
 #     title: OSS Contributions
@@ -230,7 +236,7 @@ skills:
       - name: Java
         level: 80%
 
-      - name: Java Script
+      - name: JavaScript
         level: 80%
 
       - name: C
