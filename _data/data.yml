@@ -61,10 +61,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-        I am a Computer Science student at UC Davis (GPA: 3.9/4.0) with expertise in system architecture, machine
-        learning, and full-stack development. Led projects in decentralized bookkeeping, machine learning, and
-        game development. Skilled in React, Node.js, Vue.js, and Python. Published in the 2024 MLSCM Conference
-        on deep learning integration for object detection.
+        I'm a Computer Science master's student at Duke University with a focus on machine learning and deep learning applications. With a 3.9 GPA from UC Davis, I've led projects in robust neural networks, image classification, and predictive modeling for games. My work includes a published paper on deep convolutional networks for cat breed classification, and practical ML systems like a League of Legends win predictor using local robustness techniques and a trading simulation platform. I’m experienced with Python, PyTorch, YOLO, and full-stack tools like React and FastAPI.
 education:
     title: Education
     info:
