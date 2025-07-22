@@ -157,7 +157,7 @@ projects:
     #   section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: woaa-trading
+      - title: WOAA-trading
         link: "#"
         tagline: "full-stack trading simulation platform using React (TypeScript), FastAPI (Python), PostgreSQL, and Redis."
         
