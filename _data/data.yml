@@ -66,8 +66,8 @@ education:
     title: Education
     info:
         - degree: MS in Computer Science
-            university: Duke University
-            time: 08/2025 - present
+        university: Duke University
+        time: 08/2025 - present
             
         - degree: BS in Computer Science
         university: University of California, Davis
