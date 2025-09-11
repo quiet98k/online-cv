@@ -61,17 +61,15 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-        I'm a Computer Science master's student at Duke University with a focus on machine learning and deep learning applications. With a 3.9 GPA from UC Davis, I've led projects in robust neural networks, image classification, and predictive modeling for games. My work includes a published paper on deep convolutional networks for cat breed classification, and practical ML systems like a League of Legends win predictor using local robustness techniques and a trading simulation platform. I’m experienced with Python, PyTorch, YOLO, and full-stack tools like React and FastAPI.
-education:
-    title: Education
+        MS CS student at Duke specializing in ML/deep learning. Published on cat-breed classification and built a LoL win predictor and trading simulator; proficient with Python, PyTorch, YOLO, React, and FastAPI; UC Davis BS, GPA 3.9.
     info:
         - degree: MS in Computer Science
           university: Duke University
-          time: 08/2025 - present
+          time: Aug 2025 - present
             
         - degree: BS in Computer Science
           university: University of California, Davis
-          time: 07/2022 - 06/2025
+          time: Jul 2022 - Jun 2025
           details: |    
             - GPA: 3.9/4.0
             - GRE: 339
@@ -92,22 +90,26 @@ experiences:
     title: Experiences
     info:
       - role: System Architect Intern
-        time: 07/2023 - 08/2023
+        time: Jul 2023 - Aug 2023
         company: Guangdong Yixun Technology
         details: |
             - Integrated Vue.js and Spring Boot for enhanced UX/UI and performance
             - Boosted YOLOv3 image recognition accuracy through curated datasets
             - Established Prometheus-based system monitoring with Grafana
-      # - role: Computer Science Unit Tutor
-      #   time: 04/2023 - Present
-      #   company: CS Tutoring at UC Davis
-      #   details: |    
-      #       - Assisted students with programming assignments and collaborative study sessions
+            
       - role: Mathematic Reader
-        time: 10/2024 – 12/2023
+        time: Sep 2024 - Dec 2024
         company: UC Davis Math Department
         details: |
             - Graded assignments and provided feedback to improve problem-solving skills
+            
+      - role: Graduate Teaching Assistant
+        time: Sep 2025 - Present
+        company: Duke University CS Department
+        details: |
+            - Grade assignments and provide prompt, constructive feedback
+            - Host weekly office hours for Q&A and debugging
+            - Lead pre-exam review sessions with practice materials
 
 # certifications:
 #       title: Certifications
@@ -158,11 +160,11 @@ projects:
     #   Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: WOAA-trading
-        link: "#"
+        link: "https://github.com/quiet98k/woaa-trading.git"
         tagline: "full-stack trading simulation platform using React (TypeScript), FastAPI (Python), PostgreSQL, and Redis."
         
       - title: LOL-Win-Prediction
-        link: "#"
+        link: "https://github.com/quiet98k/LOL-Win-Prediction"
         tagline: "Mid-game win predictor for League of Legends using a DNN with a focus on local robustness (PGD, Jacobian, Marabou)."
 
       - title: Chinese Handwritten Digit Classifier
@@ -226,39 +228,39 @@ publications:
       #   authors: Edgar T. Irons
       #   conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Programming Languages
+# skills:
+#     title: Programming Languages
 
-    toolset:
-      - name: Python
-        level: 98%
+#     toolset:
+#       - name: Python
+#         level: 98%
 
-      - name: Java
-        level: 80%
+#       - name: Java
+#         level: 80%
 
-      - name: JavaScript
-        level: 80%
+#       - name: JavaScript
+#         level: 80%
 
-      - name: C
-        level: 80%
+#       - name: C
+#         level: 80%
 
-      - name: C++
-        level: 70%
+#       - name: C++
+#         level: 70%
 
-      - name: Kotlin
-        level: 80%
+#       - name: Kotlin
+#         level: 80%
         
-      - name: Assembly
-        level: 60%    
+#       - name: Assembly
+#         level: 60%    
       
-      - name: Prolog
-        level: 60%
+#       - name: Prolog
+#         level: 60%
         
-      - name: Haskell
-        level: 60%
+#       - name: Haskell
+#         level: 60%
         
-      - name: Erlang
-        level: 60%
+#       - name: Erlang
+#         level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
