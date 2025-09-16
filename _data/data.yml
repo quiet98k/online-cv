@@ -62,6 +62,7 @@ career-profile:
     title: About Me
     summary: |
         MS CS student at Duke specializing in ML/deep learning. Published on cat-breed classification and built a LoL win predictor and trading simulator; proficient with Python, PyTorch, YOLO, React, and FastAPI; UC Davis BS, GPA 3.9.
+        
     info:
         - degree: MS in Computer Science
           university: Duke University
@@ -165,7 +166,7 @@ projects:
         
       - title: LOL-Win-Prediction
         link: "https://github.com/quiet98k/LOL-Win-Prediction"
-        tagline: "Mid-game win predictor for League of Legends using a DNN with a focus on local robustness (PGD, Jacobian, Marabou)."
+        tagline: "Reached 98.9% clean accuracy (best variant) for DNN model while keeping predictions stable under perturbations"
 
       - title: Chinese Handwritten Digit Classifier
         link: "https://github.com/quiet98k/Chinese-Digit-Classifier"
