@@ -231,39 +231,29 @@ publications:
       #   authors: Edgar T. Irons
       #   conference: "Comm. ACM 4 (1961), 51–55"
 
-# skills:
-#     title: Programming Languages
+skills:
+    title: Programming Languages &amp; Skills
 
-#     toolset:
-#       - name: Python
-#         level: 98%
+    toolset:
+      - name: Python
+        # level: 98%
 
-#       - name: Java
-#         level: 80%
+      - name: Pytorch
 
-#       - name: JavaScript
-#         level: 80%
+      - name: Java
 
-#       - name: C
-#         level: 80%
+      - name: JavaScript
 
-#       - name: C++
-#         level: 70%
+      - name: TypeScript
 
-#       - name: Kotlin
-#         level: 80%
+      - name: C
+
+      - name: C++
+
+      - name: Kotlin
         
-#       - name: Assembly
-#         level: 60%    
+      - name: Assembly
       
-#       - name: Prolog
-#         level: 60%
-        
-#       - name: Haskell
-#         level: 60%
-        
-#       - name: Erlang
-#         level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
