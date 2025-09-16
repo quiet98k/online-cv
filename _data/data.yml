@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Yiming Feng
@@ -62,7 +62,9 @@ career-profile:
     title: About Me
     summary: |
         MS CS student at Duke specializing in ML/deep learning. Published on cat-breed classification and built a LoL win predictor and trading simulator; proficient with Python, PyTorch, YOLO, React, and FastAPI; UC Davis BS, GPA 3.9.
-        
+
+education:
+    title: Education
     info:
         - degree: MS in Computer Science
           university: Duke University
